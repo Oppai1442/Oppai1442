@@ -1,4 +1,5 @@
 <h1 align="center">🐧 Oppai1442</h1>
+![](https://komarev.com/ghpvc/?username=Oppai1442&color=e6bb30)
 <p align="center">
   <i>Code like it's life or death – unless I'm not in the mood, then I avoid it like it's the plague.</i><br>
   Tool Maker | UI Hater | Night Owl Dev | Former Lua Cultist
