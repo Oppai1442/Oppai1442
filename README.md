@@ -1,5 +1,7 @@
 <h1 align="center">🐧 Oppai1442</h1>
-![](https://komarev.com/ghpvc/?username=Oppai1442&color=e6bb30)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Oppai1442&color=d6a513" alt="Profile View Count">
+</p>
 <p align="center">
   <i>Code like it's life or death – unless I'm not in the mood, then I avoid it like it's the plague.</i><br>
   Tool Maker | UI Hater | Night Owl Dev | Former Lua Cultist
@@ -18,7 +20,7 @@
 ---
 
 ### 🛠 Favorite Stack
-
+![Profile views](https://komarev.com/ghpvc/?username=Oppai1442&color=6f42c1)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
